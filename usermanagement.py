@@ -96,7 +96,6 @@ def saveusers(filename, userlist):
 
 #Main part of the program starts here
 
-#file_path = Path(__file__).resolve().parent.parent / "data" / "users.txt"
 file_path = "data/users.txt"
 
 menuchoice = 0
