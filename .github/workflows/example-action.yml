@@ -16,4 +16,4 @@ jobs:
       - name: install pygount
         run: pip install pygount
       - name: count lines of code
-        run: pygount --summary .
+        run: pygount --format=summary .
